@@ -3,7 +3,7 @@
 } */
 
 body {
-  text-align: center;
+
 }
 
 .image {
@@ -30,6 +30,7 @@ h2 {
 color:black;
 font-size: 1em;
 font-family: 'Yantramanav', sans-serif;
+text-align:center;
 }
 
 img {
@@ -49,7 +50,9 @@ text-align: left;
 h4 {
 color: red;
 font-size: 1.75em;
-font-family: font-family: 'Montserrat', sans-serif;}
+font-family: font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
 
 
 
@@ -57,14 +60,14 @@ h5 {
   color: red;
   font-size: 3em;
   font-family: 'Faster One', cursive;
-  text-align: left;
+  text-align: center;
 }
 
 h6 {
   color: red;
   font-size: 1.75em;
   font-family: 'Faster One', cursive;
-  text-align: left;
+  text-align: center;
 }
 
 iframe {
@@ -73,7 +76,13 @@ height: 100%
 width: 50%;
 size: 50%;
 }
- {
 
-
+.p2 {
+color:black;
+font-size: 1.5em;
+font-family: 'Source Sans Pro', sans-serif;
+padding-left: 190px;
+padding-right: 50px;
+margin-left: 0px;
+margin-right: 80px;
 }
