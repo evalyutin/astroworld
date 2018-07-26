@@ -2,10 +2,6 @@
   border: 1px solid red;
 } */
 
-body {
-
-}
-
 .image {
   text-align: center;
   width: 50%;
@@ -23,7 +19,7 @@ p {
 color:red;
 font-size: 2em;
 font-family: 'Faster One', cursive;
-text-align: center;
+
 }
 
 h2 {
@@ -38,13 +34,14 @@ img {
 }
 
 nav a {
-color: red;}
+color: red;
+}
 
 h3 {
-color: black;
-font-size: 1em;
-font-family: 'Source Sans Pro', sans-serif;
-text-align: left;
+color: red;
+font-size: 2em;
+font-family: 'Faster One', cursive;
+text-align: center;
 }
 
 h4 {
@@ -71,8 +68,8 @@ h6 {
 }
 
 iframe {
-position: left;
-height: 100%
+align-items: center;
+height: 100%;
 width: 50%;
 size: 50%;
 }
@@ -81,8 +78,8 @@ size: 50%;
 color:black;
 font-size: 1.5em;
 font-family: 'Source Sans Pro', sans-serif;
-padding-left: 190px;
-padding-right: 50px;
+padding-left: 400px;
+padding-right: 90px;
 margin-left: 0px;
-margin-right: 80px;
+margin-right: 280px;
 }
