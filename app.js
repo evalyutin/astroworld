@@ -12,7 +12,7 @@ astroworld.style.color = "red"
 
 
 $(document).ready(function(){
-$('.page-header').css('color',function(){
+$('.page-header').css('color',function(){});
 
 
-}) //close documenmt.ready
+}); //close documenmt.ready

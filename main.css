@@ -57,7 +57,7 @@ font-family: 'Faster One', cursive;
 }
 
 h2 {
-color:black;
+color:white;
 font-size: 1em;
 font-family: 'Yantramanav', sans-serif;
 text-align:center;
@@ -108,7 +108,7 @@ size: 50%;
 } */
 
 .p2 {
-color:black;
+color:white;
 font-size: 1.5em;
 font-family: 'Source Sans Pro', sans-serif;
 padding-left: 400px;
@@ -123,4 +123,11 @@ color: red;
 
 .about-pics {
   width: 100%;
+}
+
+.socialmedia-pics {
+  width: 60px;
+  height: 60px;
+  margin: 2%;
+
 }
