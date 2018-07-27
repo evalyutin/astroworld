@@ -2,9 +2,8 @@
   border: 1px solid red;
 } */
 body {
-  background:
-rgb(32, 156, 193);
-  background: url('https://wallpaper-gallery.net/images/travis-scott-background/travis-scott-background-15.jpg');
+  background:white;
+  background: url('6552412-travis-scott-rodeo-wallpaper.png');
 background-size: cover;
  background-repeat:repeat;
  background-position: center;
@@ -83,9 +82,9 @@ h6 {
 
 iframe {
 align-items: center;
-height: 100%;
-width: 50%;
+
 size: 50%;
+
 }
 
 .p2 {
@@ -99,7 +98,7 @@ margin-right: 280px;
 }
 
 .highlight {
-background-color: white;
+color: red;
 
 
 }
